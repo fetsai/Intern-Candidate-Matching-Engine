@@ -20,3 +20,7 @@ Onde:
 O matching engine procurará a melhor order para realizar o trade, respeitando a chegada destas.
 
 Para parar o programa, enviar `stop`.
+
+
+### Author
+Felipe Sinyee Tsai

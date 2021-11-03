@@ -13,7 +13,7 @@ class Trade:
 def DeleteOrders(listOrder,listIndex):
   # Funcao para deletar as order que foram zeradas da lista
   if len(listIndex) > 0 :
-    for i in range(len(listIndex)-1,-1.-1):
+    for i in range(len(listIndex)-1,-1,-1):
       del listOrder[listIndex[i]]
   return listOrder
 
